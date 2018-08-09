@@ -1,0 +1,18 @@
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\Debug\Stock Libros.exe
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\Debug\Stock Libros.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\Debug\itextsharp.dll
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\Debug\System.Data.SQLite.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\Debug\System.Data.SQLite.xml
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock Libros.csprojResolveAssemblyReference.cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\MainWindow.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\App.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock Libros_MarkupCompile.cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock Libros_MarkupCompile.lref
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\MainWindow.baml
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock Libros.g.resources
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock_Libros.Properties.Resources.resources
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock Libros.csproj.GenerateResource.Cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock Libros.exe
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\Debug\Stock Libros.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\Debug\Stock Libros.exe.config
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\Debug\System.Data.SQLite.dll

@@ -1,0 +1,19 @@
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Release\Stock Libros.exe.config
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Release\Stock Libros.exe
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Release\Stock Libros.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Release\itextsharp.dll
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Release\System.Data.SQLite.dll
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Release\System.Data.SQLite.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Release\System.Data.SQLite.xml
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\MainWindow.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\EditarLibro.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\App.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\Stock Libros_MarkupCompile.cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\Stock Libros_MarkupCompile.lref
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\MainWindow.baml
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\EditarLibro.baml
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\Stock Libros.g.resources
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\Stock_Libros.Properties.Resources.resources
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\Stock Libros.csproj.GenerateResource.Cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\Stock Libros.exe
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Release\Stock Libros.pdb

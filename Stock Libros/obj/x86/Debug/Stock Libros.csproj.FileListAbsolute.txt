@@ -1,0 +1,39 @@
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Debug\Stock Libros.exe.config
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Debug\Stock Libros.exe
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Debug\Stock Libros.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Debug\itextsharp.dll
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Debug\System.Data.SQLite.dll
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Debug\System.Data.SQLite.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\bin\x86\Debug\System.Data.SQLite.xml
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\MainWindow.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\App.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros_MarkupCompile.cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros_MarkupCompile.lref
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\MainWindow.baml
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.g.resources
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock_Libros.Properties.Resources.resources
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.csproj.GenerateResource.Cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.exe
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.pdb
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.csprojResolveAssemblyReference.cache
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\EditarLibro.g.cs
+c:\users\lau_3\documents\visual studio 2015\Projects\2\Stock Libros\Stock Libros\obj\x86\Debug\EditarLibro.baml
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\bin\x86\Debug\Stock Libros.exe.config
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\bin\x86\Debug\Stock Libros.exe
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\bin\x86\Debug\Stock Libros.pdb
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.csprojResolveAssemblyReference.cache
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\EditarLibro.g.cs
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\App.g.cs
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros_MarkupCompile.cache
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros_MarkupCompile.lref
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\MainWindow.baml
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\EditarLibro.baml
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.g.resources
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock_Libros.Properties.Resources.resources
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.csproj.GenerateResource.Cache
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.csproj.CoreCompileInputs.cache
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.exe
+C:\Users\lau33\Google Drive\Stock Libros\Stock Libros\obj\x86\Debug\Stock Libros.pdb

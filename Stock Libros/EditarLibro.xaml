@@ -1,0 +1,29 @@
+﻿<Window x:Class="Stock_Libros.EditarLibro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stock_Libros"
+        mc:Ignorable="d"
+        Title="Editar Libro" Height="346.667" Width="300">
+    <Grid>
+        <Label x:Name="label" Content="Titulo" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <Label x:Name="label1" Content="Autor" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,41,0,0"/>
+        <Label x:Name="label2" Content="Editorial" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,72,0,0"/>
+        <Label x:Name="label3" Content="Cantidad Vendidos" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,103,0,0"/>
+        <TextBox x:Name="tituloEditar" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="125,14,0,0"/>
+        <TextBox x:Name="autorEditar" HorizontalAlignment="Left" Height="23" Margin="125,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="editorialEditar" HorizontalAlignment="Left" Margin="125,75,0,0" VerticalAlignment="Top" Width="120" Height="23"/>
+        <TextBox x:Name="vendidosEditar" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="125,107,0,0"/>
+        <Label x:Name="label4" Content="Ultima Venta" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,134,0,0"/>
+        <DatePicker x:Name="ultimaVentaEditar" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="125,135,0,0" Height="24" Width="120"/>
+        <Label x:Name="label5" Content="Cantidad Ingreso" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ingresoEditar" HorizontalAlignment="Left" Height="23" Margin="125,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label6" Content="Ultimo Ingreso" HorizontalAlignment="Left" Margin="10,195,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="ultimoIngresoEditar" HorizontalAlignment="Left" Margin="125,196,0,0" VerticalAlignment="Top" Height="24" Width="120"/>
+        <Label x:Name="label7" Content="Stock" HorizontalAlignment="Left" Margin="10,226,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="stockEditar" HorizontalAlignment="Left" Height="23" Margin="125,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Guardar" HorizontalAlignment="Left" Margin="125,276,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+
+    </Grid>
+</Window>
